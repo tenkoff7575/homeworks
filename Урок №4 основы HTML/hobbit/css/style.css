@@ -1,0 +1,19 @@
+body {
+    background-color: #9e9898;
+    margin: 40px;
+}
+
+h1 {
+    color:brown;
+}
+.prolog {
+    font-weight: bold;
+}
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+}

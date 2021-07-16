@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 22px;
+    color: red;
+}
+p {
+    color: blue;
+}
+.box {
+    /*Ширина*/
+    width: 300px;
+    /*Высоты*/
+    height: 300px;
+    /*фоновый цвет*/
+    background-color: red;
+    /*внутренние отступы*/
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    /*рамка*/
+    border-colorb: black; /*b специльно добавил, для неправильност*/
+    border-widthb: 5px 10px 15px 20px;
+    border-styleb: solid;
+    /*короткая запись рамки*/
+    border: solid 5px black;
+    margin: 20px;
+}
